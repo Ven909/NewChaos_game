@@ -84,7 +84,7 @@ int main()
         rect.setFillColor(Color::Red); 
         
         //draw the coordinate points 
-        
+        window.clear();
         //draw triangle
         for (long unsigned int i = 0; i < vertexes.size(); i++)
         {
