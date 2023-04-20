@@ -81,7 +81,7 @@ int main()
             rect.setPosition(Mid_x, Mid_y);  // instructing what coordinate to draw the dots
         }
         //setting the color of the dots
-        rect.setFillColor(Color::Red); // maybe change to a different color to improve contrast?
+        rect.setFillColor(Color::Red); 
         
         //draw the coordinate points 
         
